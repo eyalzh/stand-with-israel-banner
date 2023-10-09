@@ -54,7 +54,7 @@ Simply paste the code below under the body tag in your index.html file.
       </svg>
     </div>
     <div class="support-israel__label">
-      We stand with the people of Israel
+      We stand with Israel
     </div>
   </div>
 ```
