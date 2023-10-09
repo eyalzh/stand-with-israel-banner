@@ -1,5 +1,5 @@
 # Stand with Israel banner
-We stand with Israel banner for a website.
+"We stand with Israel" banner for a website.
 
 The following is a zero-dependencies, zero-setup way to add a banner to your website supporting Israel and the Israeli people.
 Simply paste the code below under the body tag in your index.html file.
