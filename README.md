@@ -1,4 +1,4 @@
-# stand-with-israel-banner
+# Stand with Israel banner
 We stand with Israel banner for a website.
 
 The following is a zero-dependencies, zero-setup way to add a banner to your website supporting Israel and the Israeli people.
